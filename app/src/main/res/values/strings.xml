@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MotelYa</string>
+    <string name="todo">TODO</string>
+    <string name="motelya">¡MotelYa!</string>
+
+    <string name="pasword">pasword</string>
+    <string name="email">Email :</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="Logo">TODO</string>
+    <string name="resgistrate_ya">!Resgistrate ya¡</string>
+    <string name="anonimo">Anonimo</string>
+    <string name="ya_tengo_cuenta">Ya tengo cuenta</string>
+    <string name="registro">Registro</string>
+
+    <string name="registrar">Registrar</string>
+    <string name="phone">phone</string>
+
+    <string name="recibe_ofertas_descuentos_promociones_y_obsequios">Recibe ofertas, descuentos, promociones y obsequios.</string>
+    <string name="contacto">Contacto</string>
+    <string name="descuentos" >Descuentos</string>
+    <string name="Condiciones">Condiciones</string>
+    <string name="cupon_de_descuento">Cupon de descuento</string>
+    <string name="reservas">Reservas</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="motel_qatar">Motel Qatar</string>
+    <string name="descripci_n_del_motel">Descripción del motel</string>
+
+    <string name="precio">Precio:</string>
+    <string name="_50_000">$50.000</string>
+    <string name="reservar">Reservar</string>
+    <string name="cargando_moteles">Cargando moteles</string>
+    <string name="caragando_precios">Caragando Precios</string>
+
+    <string name="nombre">Nombre :</string>
+
+    <string name="telefono">Telefono :</string>
+    <string name="example_dominio_com">example@dominio.com</string>
+    <string name="_57_123456789">+57 123456789</string>
+    <string name="cambiar_password">Cambiar Password</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+</resources>

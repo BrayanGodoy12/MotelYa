@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/contacto"
+        app:showAsAction="never"
+        android:icon="@drawable/icon_contacto"
+        android:title="@string/contacto" />
+    <item android:id="@+id/descuento"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/descuentos"
+        app:showAsAction="withText"
+        />
+    <item android:id="@+id/perfil"
+        android:icon="@drawable/icon_perfil"
+        android:title="@string/mi_perfil"
+        app:showAsAction="withText"
+        />
+    <item android:id="@+id/reserva"
+        android:icon="@drawable/icon_reserva"
+        android:title="@string/reservas"
+        app:showAsAction="withText"
+        />
+    <item android:id="@+id/cuponDescuento"
+        android:icon="@drawable/icon_cupon"
+        android:title="@string/cupon_de_descuento"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/condiciones"
+        android:icon="@drawable/icon_condiciones"
+        android:title="@string/Condiciones"
+        app:showAsAction="withText" />
+</menu>
